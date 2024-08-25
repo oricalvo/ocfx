@@ -1,0 +1,14 @@
+{
+    "name": "@ocfx/logger",
+    "version": "1.0.1",
+    "type": "module",
+    "main": "dist/index.js",
+    "dependencies": {
+        "@ocfx/common": "workspace:*",
+        "@types/lodash": "^4.17.7",
+        "lodash": "^4.17.21"
+    },
+    "scripts": {
+        "prepublishOnly": ""
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext",
+        "target": "esnext",
+        "moduleResolution": "NodeNext",
+        "sourceMap": true,
+        "esModuleInterop": true,
+        "declaration": true,
+        "declarationMap": true,
+        "composite": true,
+        "forceConsistentCasingInFileNames": true,
+        "experimentalDecorators": true,
+        "noImplicitThis": true,
+        "tsBuildInfoFile": "./dist/tsconfig.tsbuildinfo",
+        "strict": true,
+        "assumeChangesOnlyAffectDirectDependencies": true
+    },
+    "include": [
+    ],
+    "references": [
+        {"path": "./lib/tsconfig.json"},
+        {"path": "./client/tsconfig.json"}
+    ]
+}

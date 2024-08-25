@@ -1,0 +1,11 @@
+{
+    "name": "@ocfx/playground",
+    "version": "1.0.1",
+    "type": "module",
+    "dependencies": {
+        "@ocfx/cli": "workspace:*",
+        "@types/source-map-support": "^0.5.10",
+        "source-map-support": "0.5.21"
+    },
+    "scripts": {}
+}

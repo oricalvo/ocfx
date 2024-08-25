@@ -1,0 +1,13 @@
+{
+    "extends": "./tsconfig.base.json",
+    "include": [
+    ],
+    "references": [
+        {"path": "./common/tsconfig.json"},
+        {"path": "./logger/tsconfig.json"},
+        {"path": "./server-common/tsconfig.json"},
+        {"path": "./cli/tsconfig.json"},
+        {"path": "./playground/tsconfig.json"},
+        {"path": "./build/tsconfig.json"}
+    ]
+}

@@ -1,0 +1,7 @@
+packages:
+    - common
+    - server-common
+    - cli
+    - playground
+    - build
+    - logger
