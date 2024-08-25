@@ -8,6 +8,7 @@
         {"path": "./server-common/tsconfig.json"},
         {"path": "./cli/tsconfig.json"},
         {"path": "./playground/tsconfig.json"},
+        {"path": "./workspace/tsconfig.json"},
         {"path": "./build/tsconfig.json"}
     ]
 }

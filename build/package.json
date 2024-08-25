@@ -5,6 +5,7 @@
     "dependencies": {
         "@ocfx/cli": "workspace:*",
         "@ocfx/logger": "workspace:*",
+        "@ocfx/workspace": "workspace:*",
         "source-map-support": "0.5.21"
     },
     "devDependencies": {
